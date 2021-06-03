@@ -1,0 +1,19 @@
+/*RESETEANDO LOS ESTILOS*/
+*{
+	margin: 0px; /*margen hacía afuera*/
+	padding: 0px; /*margen hacía adentro*/
+}
+header{
+	width: 100%;
+	height: 80px;
+	background: lightblue; 
+	position: relative;
+	float: left;
+}
+div{
+	width: 100%;
+	background: lightyellow;
+	position: relative;
+	float: left;
+	padding: 10px;
+}
